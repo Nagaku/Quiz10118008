@@ -231,6 +231,7 @@
                     android:layout_marginRight="7dp">
 
                     <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/kotak1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"/>
 
@@ -245,6 +246,7 @@
 
 
                     <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/kotak2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"/>
 
@@ -303,7 +305,9 @@
                         android:layout_height="wrap_content"
                         android:textSize="14sp"
                         android:lineHeight="20sp"
-                        android:text="@string/text17">
+                        android:text="@string/text17"
+                        android:layout_marginTop="5dp"
+                        android:textColor="@color/neutral_grey_900">
 
                     </TextView>
                 </LinearLayout>
@@ -325,7 +329,9 @@
                         android:layout_height="wrap_content"
                         android:textSize="14sp"
                         android:lineHeight="20sp"
-                        android:text="@string/text18">
+                        android:text="@string/text18"
+                        android:layout_marginTop="5dp"
+                        android:textColor="@color/neutral_grey_900">
 
                     </TextView>
                 </LinearLayout>
@@ -346,7 +352,9 @@
                         android:layout_height="wrap_content"
                         android:textSize="14sp"
                         android:lineHeight="20sp"
-                        android:text="@string/text19">
+                        android:text="@string/text19"
+                        android:layout_marginTop="5dp"
+                        android:textColor="@color/neutral_grey_900">
 
                     </TextView>
                 </LinearLayout>
@@ -376,7 +384,9 @@
                         android:layout_height="wrap_content"
                         android:textSize="14sp"
                         android:lineHeight="20sp"
-                        android:text="@string/text20">
+                        android:text="@string/text20"
+                        android:layout_marginTop="5dp"
+                        android:textColor="@color/neutral_grey_900">
 
                     </TextView>
                 </LinearLayout>
@@ -398,7 +408,9 @@
                         android:layout_height="wrap_content"
                         android:textSize="14sp"
                         android:lineHeight="20sp"
-                        android:text="@string/text21">
+                        android:text="@string/text21"
+                        android:layout_marginTop="5dp"
+                        android:textColor="@color/neutral_grey_900">
 
                     </TextView>
                 </LinearLayout>
@@ -419,7 +431,9 @@
                         android:layout_height="wrap_content"
                         android:textSize="14sp"
                         android:lineHeight="20sp"
-                        android:text="@string/text22">
+                        android:text="@string/text22"
+                        android:layout_marginTop="5dp"
+                        android:textColor="@color/neutral_grey_900">
 
                     </TextView>
                 </LinearLayout>
