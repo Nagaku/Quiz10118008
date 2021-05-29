@@ -230,6 +230,10 @@
                     android:layout_weight="1"
                     android:layout_marginRight="7dp">
 
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
                 </LinearLayout>
 
                 <LinearLayout
@@ -238,6 +242,11 @@
                     android:orientation="vertical"
                     android:layout_weight="1"
                     android:layout_marginLeft="7dp">
+
+
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
 
                 </LinearLayout>
 
